@@ -1,1 +1,8 @@
-Попова Наталья Ивановна, животных нет, первая желаема з/п - 300$
+{
+  "Last name" : "Popova" ,
+  "First name" : "Nataliia" ,
+  "Sirname" : "Ivanivna" ,
+  "Age" : 30
+  "Pets Numbers" : 0,
+  "Desired salary" : 20000
+}
