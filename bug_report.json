@@ -5,7 +5,7 @@
 "Status": "Accepted",
 "Build": "3.1.0",
 "Reproducibility": "always",
-"Platform": "Huawei p10 lite (WAS LX-1)',
+"Platform": "Huawei p10 lite",
 "OS": "Android 6.1.0"
 "Title": "The order of the icons is restored to the default on the main screen after a few taps on the 'Add widget' button",
 "Precondition": "The icons of other applications is located on the home screen", 
